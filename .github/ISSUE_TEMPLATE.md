@@ -8,7 +8,7 @@
 # Vita3K summary
 - Version: v?
 - Build number: ?
-- Commit hash: ?
+- Commit hash: https://github.com/vita3k/vita3k/commit/[commit] <!-- Replace "[commit]" with commit hash -->
 
 # Test environment summary
 - Tested by: ?
