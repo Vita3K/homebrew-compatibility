@@ -23,6 +23,8 @@
 # Screenshots
 ![](https://?)
 
+# Log
+
 # Recommended labels
 <!-- See https://github.com/Vita3K/homebrew-compatibility/labels -->
 - A?
