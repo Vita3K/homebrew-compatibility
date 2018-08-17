@@ -3,6 +3,6 @@
 
 ---
 
-The [Compatibility web page](https://vita3k.github.io/compatibility.html) fetches data from this repo.
+The [Compatibility web page](https://vita3k.org/compatibility.html) fetches data from this repo.
 
 If you want to be a tester and help test games, ask us for write access on our Discord server.
