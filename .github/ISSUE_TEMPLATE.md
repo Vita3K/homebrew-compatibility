@@ -9,6 +9,8 @@
 - Version: v?
 - Build number: ?
 - Commit hash: https://github.com/vita3k/vita3k/commit/[commit] <!-- Replace "[commit]" with commit hash -->
+- CPU backend: Dynarmic/Unicorn
+- GPU backend: OpenGL/Vulkan
 
 # Test environment summary
 - Tested by: ?
